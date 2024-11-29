@@ -1,8 +1,8 @@
 ---
 layout: single
-title: 우분투에 brew 설치하기
-categories: Linux
-tags: ubuntu, brew
+title: rbenv, jekyll(minimal-mistakes)
+categories: Dev,Linux
+tags: rbenv, jekyll
 toc: True
 ---
 
