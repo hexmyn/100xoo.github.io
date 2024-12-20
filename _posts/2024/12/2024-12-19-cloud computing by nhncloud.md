@@ -2,7 +2,7 @@
 layout: single
 title: 클라우드 컴퓨팅이란(NHN Cloud)
 categories: Cloud
-tags: [NHN Cloud]
+tags: [NHN Cloud, NHN Cloud 톺아보기]
 toc: True
 ---
 
@@ -25,10 +25,7 @@ toc: True
 |                           | - 시스템 릴리즈 및 마이그레이션                                                                       |
 | **운영**                    |                                         |
 
-
-
-아래는 요청하신 내용을 반영하여 수정된 표입니다:
-
+---
 
 ## 클라우드 도입 후 인프라 구축 절차
 
@@ -50,6 +47,8 @@ toc: True
 |                           | - 시스템 릴리즈 및 마이그레이션                                                                       |
 | **운영**                    | - 클라우드에서 서비스 선택 및 운영                                                                     |
 
+---
+
 # Cloud Computing 특징
 
 1️⃣ **신속한 인프라 도입**  
@@ -69,9 +68,12 @@ toc: True
 
    - 클라우드는 서비스를 이용한 만큼만 비용을 지불하면 된다. 이용료가 딱 알기 쉽게 정해져 있어 기업은 이에 맞춰 어느 정도의 비용이 나올지 손쉽게 추산할 수 있다.
 
-# 그래서 한마디로, Cloud Computing?
+
+## 그래서 한마디로, Cloud Computing?
 
 > **운영비용을 낮추고 인프라를 효율적으로 사용할 수 있도록 하는 것**
+
+---
 
 ## Cloud Deployment Models
 
@@ -109,6 +111,7 @@ toc: True
 - 여러 제공업체를 비교하고 특정 IT 요구 사항에 맞게 최적의 가격을 선택하며, 공급업체 종속 방지
 - 클라우드에서 로컬화된 구성 요소 장애로 인한 데이터 손실 및 다운타임 방지 (CSP 이중화 구성)
 
+---
 
 ## Cloud Computing Type
 
@@ -124,9 +127,9 @@ toc: True
 
 - 이에 더하여 고객들이 즉각 사용할 수 있는 소프트웨어 서비스를 제공
 
-![NHN Cloud](/images/2024/11/2024-12-19-2024-12-19-cloud computing by nhncloud-1.png)
+![NHN Cloud](/images/2024/12/2024-12-19-2024-12-19-cloud computing by nhncloud-1.png)
 
 
 ## Cloud Computing 책임공유모델
-![NHN Cloud2](/images/2024/11/2024-12-19-2024-12-19-cloud computing by nhncloud-2.png)
+![NHN Cloud2](/images/2024/12/2024-12-19-2024-12-19-cloud computing by nhncloud-2.png)
 
